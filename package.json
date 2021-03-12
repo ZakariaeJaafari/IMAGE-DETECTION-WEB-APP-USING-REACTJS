@@ -50,7 +50,7 @@
     "react": "^16.13.1",
     "react-app-polyfill": "^1.0.6",
     "react-color": "^2.18.1",
-    "react-dev-utils": "^10.2.1",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.13.1",
     "react-particles-js": "^3.3.0",
     "react-tilt": "^0.1.4",
